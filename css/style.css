@@ -1,0 +1,89 @@
+:root{
+    --custom-clr : #003780;
+    --grey-clr :#333333;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+a{text-decoration: none;color: #000;}
+a:hover{text-decoration: none;}
+
+img{
+    height: 100%;width: 100%;object-fit: contain;
+}
+.logo{
+    width: 200px;height: auto;
+}
+
+.bg-custom{
+    background: var(--custom-clr);color: #fff;
+}
+.text-custom{
+    color: var(--custom-clr);
+}
+.grey-clr{
+    color:var(--grey-clr)
+}
+
+.cusLink{
+    font-size: 15px;color: var(--grey-clr);font-weight: 700;text-transform: uppercase;transition: all ease-in-out .2s;letter-spacing: .2px;
+}
+
+.cusLink:hover{
+    color: var(--custom-clr);
+}
+
+.caraImg{
+    height: 500px;object-fit: cover;
+}
+.carousel-caption{
+    top: 0px;width: 100%;height:100%;bottom: revert;left: 0;align-content: center;
+}
+.innerCaraousel{
+    background: rgba(255,255,255,0.8);color: var(--grey-clr);margin-left: 150px;padding: calc(1.275rem + 0.2142857143vw);width: 50%;
+}
+
+.carousel-caption h2{text-align: start;margin-bottom: 1rem;font-weight: 500;font-size: 2rem;}
+.carousel-caption p{
+    text-align: start;font-size: 18px;
+}
+
+.ebthehteheh{background: #f2f2f2;}
+.cardTwejnf{
+    margin: 0;font-size: 0.875rem;color: #666;font-weight: 600;
+}
+.ewgergweg{
+    font-size: calc(1.2563rem + 0.054vw);line-height: 1.333;font-weight: 700;color: #333;
+}
+.wrgwe4gw4grw34{
+    height: 200px;
+}
+.wrgwe4gw4grw34>.position-absolute{
+    position: absolute;top: 0;right: 0;padding: 0.25rem 1rem;background-color: rgba(145,177,195,0.8);font-size: 0.875rem;text-transform: uppercase;color: #fff;
+}
+
+.kttfukfu{
+    height: 400px;
+}
+.yfewugiewfuiwef{height: 200px;}
+.erhaerherh{background: #f2f2f2;}
+
+footer{
+    margin-top: 3rem;background:var(--custom-clr);color: white;padding: 3rem;
+}
+footer a{color: white;text-decoration: none;}
+
+footer img{
+    width: 200px;height: auto;filter: invert();
+}
+.tyuyuiujvycghfg{
+    gap: 20px 40px
+}
+.product_img{
+    height: 300px;
+}
+.fs_custom{
+    font-size: 16px;
+}
