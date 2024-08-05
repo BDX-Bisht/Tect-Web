@@ -11,24 +11,29 @@
     .fs_custom{
         font-size: 16px;
     }
+    .wregwergweg button{width: 50%;}
 }
 
 @media (max-width:575px){
     .row{margin: 0 !important;}
     .rgr3w3wr{padding: 0 !important;}
-    .col-12{padding: 0 !important;}
+    .col-12{padding: 1rem !important;}
     .iuwefwegofwef{flex-direction: column-reverse;}
     .kttfukfu{height: 200px;}
     .fs_custom{
-        font-size: 12px;
+        font-size: 14px;
     }
     h1{
         font-size: 22px;
     }
+    h3{font-size: 18px;}
+    p{font-size: 14px;}
     .iyegfiwegfiwey{
         margin-top: 1rem !important;flex-direction: column-reverse !important;
     }
     .product_img{
         height: 200px;
     }
+    .wregwergweg button{width: 100%;}
+    .bwregbwe{padding: 0 !important;}
 }
