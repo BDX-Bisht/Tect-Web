@@ -36,4 +36,7 @@
     }
     .wregwergweg button{width: 100%;}
     .bwregbwe{padding: 0 !important;}
+    .ewwefewe{
+        grid-template-columns: repeat(1,1fr);left: 0;width: 100%;padding: 10px;
+    }
 }
