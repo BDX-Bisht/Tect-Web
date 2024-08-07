@@ -14,7 +14,7 @@ img{
     height: 100%;width: 100%;object-fit: contain;
 }
 .logo{
-    width: 55px;height: auto;
+    width: 90px;height: auto;
 }
 
 .bg-custom{
@@ -134,4 +134,13 @@ footer img{
 }
 .ewwefewe{
     right: -13rem;grid-template-columns: repeat(3,1fr);
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    filter: brightness(0);
+}
+.ethaethaeah{
+    background: #f0f8ff;
+}
+.ethaethaeah a{
+    color: var(--custom-clr);font-size: 14px;font-weight: 600;
 }

@@ -1,6 +1,6 @@
 @media (max-width:767px){
     .caraImg{
-        height: 300px;
+        height: 200px;
     }
     footer{
         padding: 1rem;
@@ -39,4 +39,5 @@
     .ewwefewe{
         grid-template-columns: repeat(1,1fr);left: 0;width: 100%;padding: 10px;
     }
+    .awegtbrgnh{padding: .5rem !important;}
 }
