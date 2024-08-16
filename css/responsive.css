@@ -3,7 +3,7 @@
         height: 200px;
     }
     footer{
-        padding: 1rem;
+        padding: 0rem;
     }
     footer .col-12{
         padding: 0;margin-top: 1rem;
@@ -40,4 +40,9 @@
         grid-template-columns: repeat(1,1fr);left: 0;width: 100%;padding: 10px;
     }
     .awegtbrgnh{padding: .5rem !important;}
+    footer>.container>.row>.col-12>.row:nth-child(1){margin-bottom: 1rem !important;}
+    footer>.container>.row>.col-12>.row>.col-12{
+        padding: 0 !important;
+        margin-top: 0;
+    }
 }
