@@ -46,4 +46,15 @@
         padding: 0 !important;
         margin-top: 0;
     }
+    .ewfrtrwge4re{
+        padding: 0 !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .row > *{margin-top: 0;}
+}
+
+footer>.container>.row{
+    padding-bottom: 1rem !important;
 }

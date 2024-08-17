@@ -83,7 +83,7 @@ footer{
 footer a{color: white;text-decoration: none;}
 
 footer img{
-    width: 150px;height: auto;filter: invert();
+    width: 150px;height: auto;
 }
 .tyuyuiujvycghfg{
     gap: 20px 40px
@@ -143,4 +143,8 @@ footer img{
 }
 .ethaethaeah a{
     color: var(--custom-clr);font-size: 14px;font-weight: 600;
+}
+
+.rgr3w3wr{
+    margin-top: 1rem !important;
 }
